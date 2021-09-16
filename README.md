@@ -4,7 +4,7 @@ Bu depo, Karadeniz Teknik Üniversitesi'nde çeşitli bölümlerde verilen **web
 
 Temel seviye PHP dili esas alınarak hazırlanmıştır.
 
-[**Ders Bilgi Paketi:**](http://www.katalog.ktu.edu.tr/DersBilgiPaketi/course.aspx?pid=3678&lang=1&dbid=548157)
+KTÜ [**Ders Bilgi Paketi**](http://www.katalog.ktu.edu.tr/DersBilgiPaketi/course.aspx?pid=3678&lang=1&dbid=548157)
 
 ## Haftalık Ders İçeriği
 Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 16 hafta olarak planlanmıştır.
