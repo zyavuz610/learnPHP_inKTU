@@ -1,10 +1,16 @@
-# WEb/İnternet Tabanlı Programlama
+# Web/İnternet Tabanlı Programlama
 
 Bu depo, Karadeniz Teknik Üniversitesi'nde çeşitli bölümlerde verilen **web/internet programlama** derslerindeki içerikleri sunmak için hazırlanmıştır.
 
 Temel seviye PHP dili esas alınarak hazırlanmıştır.
 
 Ders içeriği ve temel kaynaklar KTÜ [**Ders Bilgi Paketi**](http://www.katalog.ktu.edu.tr/DersBilgiPaketi/course.aspx?pid=3678&lang=1&dbid=548157) esas alınarak hazıranmıştır.
+
+---
+## Yoklama ve Derslere Devam Durumu
+Dersin yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin dersi verimli bir şekilde öğrenmesi için derse devam sorumluluğunu yerine getirmesi beklenir. Bu nedenle öğrencinin yüzyüze ya da çevrim içi dersler ile paylaşılan ders materyallerini takip etmesi önerilir. **_Çevrim içi dersler ile yüzyüze dersler tamamne aynı içeriğe sahiptir._**
+
+* [2021-22 Güz Yarıyılı Yoklama Listesi][yklm21b]
 
 ---
 
@@ -37,3 +43,4 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [3]: https://replit.com
 [4]: https://www.w3schools.com/
 [5]: https://www.w3schools.com/php/php_variables.asp
+[yklm21b]: https://docs.google.com/forms/d/e/1FAIpQLSfVCEDtp88MxfLuVd1keBR6TsM46vTCb5KDSF10J1DMqmx0dQ/closedform
