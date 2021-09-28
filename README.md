@@ -21,7 +21,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                  | Kaynak    |
 | ----- | ------------                                                  | ------    |
-| 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xammp][2], [Replit][3], [W3schools][4] |
+| 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xampp][2], [Replit][3], [W3schools][4] |
 | 2     | PHP'ye giriş ve değişkenler                                   | [Kaynak][5] |
 | 3     | PHP metinlerle çalışma                                        |   |
 | 4     | PHP Koşul ifadeleri                                           |   |
