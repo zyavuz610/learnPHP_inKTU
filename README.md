@@ -23,7 +23,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | ----- | ------------                                                  | ------    |
 |       |                                                               | [Ders Notları][ders_not]    |
 | 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xampp][2], [Replit][3], [W3schools][4] |
-| 2     | PHP'ye giriş ve değişkenler                                   | [Kaynak][5] |
+| 2     | PHP'ye giriş ve değişkenler                                   | [PHP Kodları][php-kod-02], [Kaynak][5] |
 | 3     | PHP metinlerle çalışma                                        |   |
 | 4     | PHP Koşul ifadeleri                                           |   |
 | 5     | PHP Koşul ifadeleri                                           |   |
@@ -48,3 +48,4 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [5]: https://www.w3schools.com/php/php_variables.asp
 [yklm21b]: https://docs.google.com/forms/d/e/1FAIpQLSfVCEDtp88MxfLuVd1keBR6TsM46vTCb5KDSF10J1DMqmx0dQ/closedform
 [ders_not]: https://docs.google.com/document/d/1COyv8zmO5ISZ-zaChOtJR8u1vShlFNmRFxOmwwDERXA/edit?usp=sharing
+[php-kod-02]: https://replit.com/@ZaferYavuz2/02-intro#index.php
