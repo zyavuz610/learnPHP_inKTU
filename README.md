@@ -45,7 +45,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [2]: https://www.apachefriends.org/tr/index.html
 [3]: https://replit.com
 [4]: https://www.w3schools.com/
-[5]: https://www.w3schools.com/php/php_variables.asp
+[5]: https://www.w3schools.com/php/php_syntax.asp
 [yklm21b]: https://docs.google.com/forms/d/e/1FAIpQLSfVCEDtp88MxfLuVd1keBR6TsM46vTCb5KDSF10J1DMqmx0dQ/closedform
 [ders_not]: https://docs.google.com/document/d/1COyv8zmO5ISZ-zaChOtJR8u1vShlFNmRFxOmwwDERXA/edit?usp=sharing
 [php-kod-02]: https://replit.com/@ZaferYavuz2/02-intro#index.php
