@@ -24,9 +24,9 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 |       |                                                               | [Ders Notları][ders_not]    |
 | 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xampp][2], [Replit][3], [W3schools][4] |
 | 2     | PHP'ye giriş ve değişkenler                                   | [Replit PHP Kodları][php-kod-02], [Kaynak][5] |
-| 3     | PHP metinlerle çalışma ve PHP Koşul ifadeleri                 | [Replit PHP Kodları][php-kod-03], [Kaynak][kaynak3]  |
-| 4     | PHP Koşul ifadeleri, Sayılar, Sabitler, Operatörler           |   |
-| 5     | Matematiksel Fonksiyonlar ve Döngülere Giriş                  |   |
+| 3     | PHP metinleri, sayılar, sabitler, Math ve Operatörler         | [Replit PHP Kodları][php-kod-03], [Kaynak][kaynak3]  |
+| 4     | PHP Koşul ifadeleri                                           |   |
+| 5     | Döngülere Giriş                                               |   |
 | 6     | PHP Döngüler ve diziler                                       |   |
 | 7     | PHP Fonksiyonlar                                              |   |
 | 8     | PHP dosya ve eposta işlemleri                                 |   |
