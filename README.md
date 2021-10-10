@@ -23,8 +23,8 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | ----- | ------------                                                  | ------    |
 |       |                                                               | [Ders Notları][ders_not]    |
 | 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xampp][2], [Replit][3], [W3schools][4] |
-| 2     | PHP'ye giriş ve değişkenler                                   | [PHP Kodları][php-kod-02], [Kaynak][5] |
-| 3     | PHP metinlerle çalışma ve PHP Koşul ifadeleri                 |   |
+| 2     | PHP'ye giriş ve değişkenler                                   | [Replit PHP Kodları][php-kod-02], [Kaynak][5] |
+| 3     | PHP metinlerle çalışma ve PHP Koşul ifadeleri                 | [Replit PHP Kodları][php-kod-03], [Kaynak][kaynak3]  |
 | 4     | PHP Koşul ifadeleri, Sayılar, Sabitler, Operatörler           |   |
 | 5     | Matematiksel Fonksiyonlar ve Döngülere Giriş                  |   |
 | 6     | PHP Döngüler ve diziler                                       |   |
@@ -49,3 +49,5 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [yklm21b]: https://docs.google.com/forms/d/e/1FAIpQLSfVCEDtp88MxfLuVd1keBR6TsM46vTCb5KDSF10J1DMqmx0dQ/closedform
 [ders_not]: https://docs.google.com/document/d/1COyv8zmO5ISZ-zaChOtJR8u1vShlFNmRFxOmwwDERXA/edit?usp=sharing
 [php-kod-02]: https://replit.com/@ZaferYavuz2/02-intro#index.php
+[php-kod-03]: https://replit.com/@ZaferYavuz2/03-if-else#index.php
+[kaynak3]: https://www.w3schools.com/php/php_if_else.asp
