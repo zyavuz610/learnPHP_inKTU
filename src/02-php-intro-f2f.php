@@ -1,3 +1,6 @@
+<!--
+  Bu içerik dersin yüz yüze eğitim şubesinde anlatılmıştır.
+-->
 <?php
 /* 
   - PHP Dili özellikleri

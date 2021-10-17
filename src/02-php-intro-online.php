@@ -1,3 +1,6 @@
+<!--
+  Bu içerik dersin uzaktan eğitim şubesinde anlatılmıştır.
+-->
 <html>
   <head>
     <title>PHP'ye Giriş </title>
