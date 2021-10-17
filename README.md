@@ -25,17 +25,17 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xampp][2], [Replit][3], [W3schools][4] |
 | 2     | PHP'ye giriş ve değişkenler                                   | [Replit PHP Kodları][php-kod-02], [Kaynak][5] |
 | 3     | PHP metinleri, sayılar, sabitler, Math ve Operatörler         | [Replit PHP Kodları][php-kod-03], [Kaynak][kaynak3]  |
-| 4     | PHP Koşul ifadeleri                                           |  [PHP Kodları][php-kod-04], [Kaynak-W3S][kaynak4] |
-| 5     | Döngülere Giriş                                               |   |
-| 6     | PHP Döngüler ve diziler                                       |   |
-| 7     | PHP Fonksiyonlar                                              |   |
-| 8     | PHP dosya ve eposta işlemleri                                 |   |
+| 4     | PHP Koşul ifadeleri ve Döngülere Giriş (for, ...)             |  [PHP Kodları][php-kod-04], [Kaynak-W3S][kaynak4] |
+| 5     | Döngüler (...,while,do-while,foreach,break/continue) ve Fonksiyonlar                                      |   |
+| 6     | PHP'de Diziler                                       |   |
+| 7     | PHP Form İşlemleri                                              |   |
+| 8     | PHP dosya işlemleri                                 |   |
 | 9     | Ara sınav                                                     |   |
-| 10    | PHP oturum işlemleri                                          |   |
-| 11    | PHP ve MySQL (Veri görüntüleme)                               |   |
-| 12    | PHP ve MySQL (Veri ekleme)                                    |   |
-| 13    | PHP ve MySQL (Veri güncelleme ve silme)                       |   |
-| 14    | Örnek Proje-Kullanıcı Kaydı ve Girişi                         |   |
+| 10    | PHP oturum işlemleri (session, cookie)                          |   |
+| 11    | PHP ve MySQL (Veritabanı bağlantısı ve veri görüntüleme)                               |   |
+| 12    | PHP ve MySQL (Veri ekleme/güncelleme/silme)                                    |   |
+| 13    | Örnek Proje-Kullanıcı Kaydı ve Girişi                         |   |
+| 14    | Örnek Proje-Duyuru ve Mesaj Sistemi                         |   |
 | 15    | Örnek Proje-Yönetim Paneli Oluşturma                          |   |
 | 16    | Final Sınavı                                                  |   |
 
