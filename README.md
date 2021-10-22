@@ -26,7 +26,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 2     | PHP'ye giriş ve değişkenler                                   | [Replit PHP Kodları][php-kod-02], [Kaynak][5] |
 | 3     | PHP metinleri, sayılar, sabitler, Math ve Operatörler         | [Replit PHP Kodları][php-kod-03], [Kaynak][kaynak3]  |
 | 4     | PHP Koşul ifadeleri ve Döngülere Giriş (for, ...)             |  [PHP Kodları][php-kod-04], [Kaynak-W3S][kaynak4] |
-| 5     | Döngüler (...,while,do-while,foreach,break/continue) ve Fonksiyonlar                                      |   |
+| 5     | Döngüler (...,while,do-while,foreach,break/continue) ve Fonksiyonlar    | [PHP Kodları][php-kod-05], [Kaynak-W3S][kaynak5]  |
 | 6     | PHP'de Diziler                                       |   |
 | 7     | PHP Form İşlemleri                                              |   |
 | 8     | PHP dosya işlemleri                                 |   |
@@ -53,3 +53,5 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [kaynak3]: https://www.w3schools.com/php/php_if_else.asp
 [php-kod-04]: https://replit.com/@ZaferYavuz2/04-if-else#index.php
 [kaynak4]: https://www.w3schools.com/php/php_if_else.asp
+[php-kod-05]: https://replit.com/@ZaferYavuz2/05-loops-and-functions#index.php
+[kaynak5]: https://www.w3schools.com/php/php_looping_while.asp
