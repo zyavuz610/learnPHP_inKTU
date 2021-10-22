@@ -1,0 +1,17 @@
+if statement
+if...else Statement
+if...elseif...else Statement
+switch Statement
+  - https://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python
+
+Örnek Projeler
+- harfli not hesabı
+  girdi: arasınav, final
+  çıktı: ortalama ve harfli not
+
+for döngüsü
+
+Örnek Projeler
+- 1-100 arası tek, çift sayıları yazdır
+- verilen sayının pozitif tam sayı bölenleri, toplamları vs...
+- döngü ile tablo oluştur
