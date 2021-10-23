@@ -19,7 +19,7 @@ Dersin yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin 
 ## Haftalık Ders İçeriği
 Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 16 hafta olarak planlanmıştır.
 
-| Hafta | Ders İçeriği                                                  | Kaynak    |
+| Hafta | Ders İçeriği                                                  | Kaynak ve Açıklamalar   |
 | ----- | ------------                                                  | ------    |
 |       |                                                               | [Ders Notları][ders_not]    |
 | 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xampp][2], [Replit][3], [W3schools][4] |
