@@ -27,7 +27,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 3     | PHP metinleri, sayılar, sabitler, Math ve Operatörler         | [Replit PHP Kodları][php-kod-03], [Kaynak][kaynak3]  |
 | 4     | PHP Koşul ifadeleri ve Döngülere Giriş (for, ...)             |  [PHP Kodları][php-kod-04], [Kaynak-W3S][kaynak4] |
 | 5     | Döngüler (...,while,do-while,foreach,break/continue) ve Fonksiyonlar    | [PHP Kodları][php-kod-05], [Kaynak-W3S][kaynak5]  |
-| 6     | PHP'de Diziler                                       | [PHP Kodları][php-kod-06], [Kaynak-W3S][kaynak6]  |
+| 6     | PHP'de Diziler ve Süperglobal değişkenler                     | [PHP Kodları][php-kod-06], [Kaynak-W3S][kaynak6]  |
 | 7     | PHP Form İşlemleri                                              |   |
 | 8     | PHP dosya işlemleri                                 |   |
 | 9     | Ara sınav                                                     |   |
