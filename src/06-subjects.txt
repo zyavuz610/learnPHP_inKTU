@@ -1,0 +1,23 @@
+Diziler
+ - index ile erişim
+  $a[0] = ...
+ - ilişkili diziler ve erişim (key-value)
+  $a['key'] = value
+   (python da sözlük)
+
+Çok Boyutlu Diziler - dizilerin dizileri
+Dizileri sıralama
+- sort, rsort
+- asort, ksort
+- arsort, krsort
+
+Süperglobal değişkenler
+$GLOBALS
+$_SERVER
+$_REQUEST
+$_POST
+$_GET
+$_FILES *
+$_ENV *
+$_COOKIE *
+$_SESSION *
