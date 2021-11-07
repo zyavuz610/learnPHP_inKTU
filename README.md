@@ -28,7 +28,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 4     | PHP Koşul ifadeleri ve Döngülere Giriş (for, ...)             |  [PHP Kodları][php-kod-04], [Kaynak-W3S][kaynak4] |
 | 5     | Döngüler (...,while,do-while,foreach,break/continue) ve Fonksiyonlar    | [PHP Kodları][php-kod-05], [Kaynak-W3S][kaynak5]  |
 | 6     | PHP'de Diziler ve Süperglobal değişkenler                     | [PHP Kodları][php-kod-06], [Kaynak-W3S][kaynak6]  |
-| 7     | PHP Form İşlemleri                                            | GET, POST, Form validation, Form required  |
+| 7     | PHP Form İşlemleri                                            | [PHP Kodları][php-kod-07], [Kaynak-W3S][kaynak7] <br> GET, POST, Form validation, Form required  |
 | 8     | PHP oturum işlemleri (session, cookie)                        |   |
 | 9     | Ara sınav                                                     |   |
 | 10    |                           |   |
@@ -57,3 +57,5 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [kaynak5]: https://www.w3schools.com/php/php_looping_while.asp
 [php-kod-06]: https://replit.com/@ZaferYavuz2/06-php-arrays#index.php
 [kaynak6]: https://www.w3schools.com/php/php_arrays.asp
+[php-kod-07]: https://replit.com/@ZaferYavuz2/07-php-forms#index.php
+[kaynak7]: https://www.w3schools.com/php/php_forms.asp
