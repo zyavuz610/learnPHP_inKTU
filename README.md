@@ -20,7 +20,7 @@ Dersin yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin 
 Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 16 hafta olarak planlanmıştır.
 
 | Hafta | Ders İçeriği                                                  | Kaynak ve Açıklamalar   |
-| ----- | ------------                                                  | ------    |
+| :-- | :--                                                  | :--    |
 |       |                                                               | [Ders Notları][ders_not]    |
 | 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xampp][2], [Replit][3], [W3schools][4] |
 | 2     | PHP'ye giriş ve değişkenler                                   | [Replit PHP Kodları][php-kod-02], [Kaynak][5] |
