@@ -7,7 +7,17 @@ setcookie("bg_color", $bg_color, time() + (86400 * 30), "/"); // 86400 = 1 day
 ?>
 <html>
 <body bgcolor="<?php echo  $_COOKIE["bg_color"]; ?>">
-
+<?php
+      session_start();
+      if(!isset($_SESSION['user'])){
+        echo '<a href="login.php">Login</a>';
+      }
+      else{
+        echo "Hoşgeldiniz, ".$_SESSION['user']."<br>";
+        echo "<a href='logout.php'>Çıkış Yap</a>";
+      }
+  ?>  
+    <hr>
 <?php
 if(!isset($_COOKIE[$cookie_name])) {
   echo "Cookie named '" . $cookie_name . "' is not set!";
