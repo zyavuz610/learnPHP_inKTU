@@ -11,7 +11,7 @@ $_SESSION["favcolor"] = "yellow";
 print_r($_SESSION);
 ?>
 <hr>
-<a href="print_session_var.php">Print Session</a>
+<a href="print_session_var.php">Session Değişkenlerini Yaz</a>
 <hr>
 </body>
 </html>

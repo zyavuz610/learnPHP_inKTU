@@ -16,7 +16,7 @@
 // Set session variables
 $_SESSION["favcolor"] = "green";
 $_SESSION["favanimal"] = "cat";
-echo "Session variables are set.";
+echo "Session değişkenleri setlendi.";
 ?>
 <hr>
 <a href="read_session.php">Session Kontrol</a>

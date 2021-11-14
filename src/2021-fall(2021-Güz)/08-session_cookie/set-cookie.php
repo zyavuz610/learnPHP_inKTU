@@ -20,10 +20,10 @@ setcookie("bg_color", $bg_color, time() + (86400 * 30), "/"); // 86400 = 1 day
     <hr>
 <?php
 if(!isset($_COOKIE[$cookie_name])) {
-  echo "Cookie named '" . $cookie_name . "' is not set!";
+  echo "'" . $cookie_name . "' isimli cookie setlenmedi";
 } else {
-  echo "Cookie '" . $cookie_name . "' is set!<br>";
-  echo "Value is: " . $_COOKIE[$cookie_name];
+  echo "Cookie '" . $cookie_name . "' setlendi!<br>";
+  echo "Değer: " . $_COOKIE[$cookie_name];
 }
 ?>
 <hr>

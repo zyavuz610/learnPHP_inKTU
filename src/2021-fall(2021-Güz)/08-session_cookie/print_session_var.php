@@ -9,8 +9,8 @@ session_start();
 print_r($_SESSION);
 ?>
 <hr>
-<a href="modify_session_var.php">Modify Session</a>
+<a href="modify_session_var.php">Session Düzenle</a>
 <hr>
-<a href="destroy_session.php">Destroy Session</a>
+<a href="destroy_session.php">Session Değişkenlerini Sil</a>
 </body>
 </html>

@@ -6,7 +6,7 @@ setcookie("user", "", time() - 3600);
 <body>
 
     <?php
-        echo "Cookie 'user' is deleted.";
+        echo "'user' isimli cookie silindi.";
     ?>
     <hr>
     <a href="index.php">Anasayfa</a>

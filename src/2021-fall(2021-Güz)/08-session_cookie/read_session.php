@@ -11,6 +11,6 @@ echo "Favorite color is " . $_SESSION["favcolor"] . ".<br>";
 echo "Favorite animal is " . $_SESSION["favanimal"] . ".";
 ?>
 <hr>
-<a href="print_session_var.php">Print Session</a>
+<a href="print_session_var.php">Session Değişkenlerini Yaz</a>
 </body>
 </html>

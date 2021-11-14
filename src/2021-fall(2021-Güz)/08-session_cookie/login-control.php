@@ -16,4 +16,7 @@
             exit;
         }
     }
+    else{
+        echo "Kullanıcı adı veya şifre hatalı!";
+    }
 ?>
