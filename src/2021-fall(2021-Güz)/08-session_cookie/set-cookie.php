@@ -16,6 +16,7 @@ if(!isset($_COOKIE[$cookie_name])) {
   echo "Value is: " . $_COOKIE[$cookie_name];
 }
 ?>
-
+<hr>
+<a href="index.php">Anasayfa</a>
 </body>
 </html>
