@@ -29,7 +29,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 5     | Döngüler (...,while,do-while,foreach,break/continue) ve Fonksiyonlar    | [PHP Kodları][php-kod-05], [Kaynak-W3S][kaynak5]  |
 | 6     | PHP'de Diziler ve Süperglobal değişkenler                     | [PHP Kodları][php-kod-06], [Kaynak-W3S][kaynak6]  |
 | 7     | PHP Form İşlemleri                                            | [PHP Kodları][php-kod-07], [Kaynak-W3S][kaynak7] <br> GET, POST, Form validation, Form required  |
-| 8     | PHP oturum işlemleri (session, cookie)                        | [Kaynak Kodlar][php-kod-08] [Kaynak-W3S][kaynak8] |
+| 8     | PHP oturum işlemleri (session, cookie)                        | [Kaynak Kodlar][php-kod-08], [Kaynak-W3S][kaynak8] |
 | 9     | Ara sınav                                                     |   |
 | 10    | PHP ve Veritabanı İşlemleri                          |   |
 | 11    | PHP ve MySQL (Veritabanı bağlantısı ve veri görüntüleme)                               |   |
