@@ -1,5 +1,9 @@
 # Web/İnternet Tabanlı Programlama
 
+---
+
+## 2021-22 Güz Yarıyılı Ders İçeriği
+
 Bu depo, Karadeniz Teknik Üniversitesi'nde çeşitli bölümlerde verilen **web/internet programlama** derslerindeki içerikleri sunmak için hazırlanmıştır.
 
 Temel seviye PHP dili esas alınarak hazırlanmıştır.
