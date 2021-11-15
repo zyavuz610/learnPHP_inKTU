@@ -1,8 +1,5 @@
 # Web/İnternet Tabanlı Programlama
 
----
-
-## 2021-22 Güz Yarıyılı Ders İçeriği
 
 Bu depo, Karadeniz Teknik Üniversitesi'nde çeşitli bölümlerde verilen **web/internet programlama** derslerindeki içerikleri sunmak için hazırlanmıştır.
 
@@ -11,6 +8,9 @@ Temel seviye PHP dili esas alınarak hazırlanmıştır.
 Ders içeriği ve temel kaynaklar KTÜ [**Ders Bilgi Paketi**](http://www.katalog.ktu.edu.tr/DersBilgiPaketi/course.aspx?pid=3678&lang=1&dbid=548157) esas alınarak hazıranmıştır.
 
 ---
+
+# 2021-22 Güz Yarıyılı Ders İçeriği
+
 ## Yoklama ve Derslere Devam Durumu
 Dersin yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin dersi verimli bir şekilde öğrenmesi için derse devam sorumluluğunu yerine getirmesi beklenir. Bu nedenle öğrencinin yüzyüze ya da çevrim içi dersler ile paylaşılan ders materyallerini takip etmesi önerilir. 
 
