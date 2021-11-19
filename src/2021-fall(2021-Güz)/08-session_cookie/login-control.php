@@ -12,8 +12,11 @@
         if($pass == $users[$user]) {
             session_start();
             $_SESSION['user'] = $user;
-            header('Location: index.php');
+            header('Location: index.php'); // otomatik yönlendirme
             exit;
+        }
+        else{
+            echo "Kullanıcı adı doğru, şifre hatalı!";
         }
     }
     else{

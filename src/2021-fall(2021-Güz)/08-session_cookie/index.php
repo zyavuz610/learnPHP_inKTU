@@ -23,9 +23,16 @@
     <a href="set-cookie.php">Cookie Ayarlama</a>
     <br>
     <a href="delete-cookie.php">Cookie Sil</a>
+
     <hr>
     <a href="set-session.php">Session Ayarlama</a>
-    <hr>
-
+    <br>
+    <a href="read_session.php">Session Kontrol</a>
+    <br>
+    <a href="print_session_var.php">Session Değişkenlerini Yaz</a>
+    <br>
+  <a href="modify_session_var.php">Session Düzenle</a>
+<br>
+<a href="destroy_session.php">Session Değişkenlerini Sil</a>
   </body>
 </html>

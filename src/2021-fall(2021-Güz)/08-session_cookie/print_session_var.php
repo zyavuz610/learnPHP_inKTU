@@ -6,11 +6,11 @@ session_start();
 <body>
 
 <?php
-print_r($_SESSION);
+    print_r($_SESSION); // tüm session değişkenlerini yazdırır.
 ?>
 <hr>
-<a href="modify_session_var.php">Session Düzenle</a>
-<hr>
-<a href="destroy_session.php">Session Değişkenlerini Sil</a>
+
+<br>
+<a href="index.php">Anasayfa</a>
 </body>
 </html>

@@ -6,10 +6,10 @@ session_start();
 <body>
 
 <?php
-// remove all session variables
+// session değişkenlerini sil
 session_unset();
 
-// destroy the session
+// oturumu kapat
 session_destroy();
 ?>
 <hr>

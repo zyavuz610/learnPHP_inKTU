@@ -18,7 +18,7 @@ $_SESSION["favcolor"] = "green";
 $_SESSION["favanimal"] = "cat";
 echo "Session değişkenleri setlendi.";
 ?>
-<hr>
-<a href="read_session.php">Session Kontrol</a>
+<br>
+<a href="index.php">Anasayfa</a>
 </body>
 </html>

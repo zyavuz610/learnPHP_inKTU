@@ -6,13 +6,13 @@ session_start();
 <body>
 
 <?php
-// remove all session variables
+// session değişkenini sil
 session_unset();
 
-// destroy the session
+// oturumu sonlandır
 session_destroy();
 ?>
 <hr>
-<a href="print_session_var.php">Print Session</a>
+<a href="index.php">Anasayfa</a>
 </body>
 </html>
