@@ -41,7 +41,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 13    | Örnek Proje-Kullanıcı Kaydı ve Girişi                         |   |
 | 14    | Örnek Proje-Duyuru ve Mesaj Sistemi                         |   |
 | 15    | Örnek Proje-Yönetim Paneli Oluşturma                          |   |
-| 16    | Final Sınavı                                                  |   |
+| 16    | Final Sınavı                                                  | Teorik sınav yapılacak  |
 
 
 [0]: https://github.com/zyavuz610/learnPHP_inKTU/blob/5205a5cd0d11bd5b0e659d6b9dc6d572a16759e8/images/browser2server.gif
