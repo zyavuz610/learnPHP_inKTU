@@ -1,0 +1,1 @@
+ybs2.sql dosyasını kullanarak veritabanını içeri aktarabilirsiniz.
