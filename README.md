@@ -35,8 +35,8 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 7     | PHP Form İşlemleri                                            | [PHP Kodları][php-kod-07], [Kaynak-W3S][kaynak7] <br> GET, POST, Form validation, Form required  |
 | 8     | PHP oturum işlemleri (session, cookie)                        | [Kaynak Kodlar][php-kod-08], [Kaynak-W3S][kaynak8] |
 | 9     | Ara sınav                                                     | Ödev verildi, teorik sınav yapılmayacak  |
-| 10    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme)                        |   |
-| 11    | PHP ve MySQL (Veri görüntüleme, güncelleme, silme)   |   |
+| 10    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme)      | mysqli_connect(), mysqli_query() <br> _INSERT INTO ... VALUES (...)_  |
+| 11    | PHP ve MySQL (Veri görüntüleme, güncelleme, silme)   | _SELECT ... FROM ..._ <br> _UPDATE ... SET ..._ <br> _DELETE FROM ... WHERE ..._ |
 | 12    | PHP ve MySQL (Form ile alınan verilerin işlenmesi, Ekleme/Güncelleme/Silme/Seçme) |   |
 | 13    | Örnek Proje-Kullanıcı Kaydı ve Girişi                         |   |
 | 14    | Örnek Proje-Duyuru ve Mesaj Sistemi                         |   |
