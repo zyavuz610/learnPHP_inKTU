@@ -1,24 +1,26 @@
 <?php
-$servername = "localhost";
-$username = "username";
-$password = "password";
-$dbname = "myDB";
+// DB bağlantısı
+/*
+DB bağlantısı 3 şekilde yapılabilir
+1. PDO, nesne tabanlı
+2. mysqli
+- mysqli_connect (prosedürel)
+- nesne tabanlı
 
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-// Check connection
-if ($conn->connect_error) {
-  die("Connection failed: " . $conn->connect_error);
-}
+biz dersimizde mysqli nin prosedürel fonksiyonlarını kullanacağız
+*/
+include 'config.php';
 
-$sql = "INSERT INTO MyGuests (firstname, lastname, email)
-VALUES ('John', 'Doe', 'john@example.com')";
+$fullname = $_POST['name'];
+$email = $_POST['email'];
+$address = $_POST['address'];
 
-if ($conn->query($sql) === TRUE) {
-  echo "New record created successfully";
-} else {
-  echo "Error: " . $sql . "<br>" . $conn->error;
-}
+$sql = "INSERT INTO user(fullname, address, email)
+        VALUES ('$fullname', '$address', '$email')";
 
-$conn->close();
+mysqli_query($conn, $sql);
+echo "İçerik eklendi <br>";
+
+
+mysqli_close($conn);
 ?>
