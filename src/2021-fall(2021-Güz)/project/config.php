@@ -10,6 +10,5 @@ $conn = mysqli_connect($servername, $username, $password, $dbname);
 if ( !$conn ) {
     die("Bağlantı kurulamadı: " . mysqli_connect_error());
 }
-echo "Bağlantı başarılı <br>";
 mysqli_query($conn, "set names 'utf8'");
 ?>
