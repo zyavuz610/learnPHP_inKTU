@@ -37,8 +37,8 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 9     | Ara sınav                                                     | Ödev verildi, teorik sınav yapılmayacak  |
 | 10    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme)      | mysqli_connect(), mysqli_query() <br> _INSERT INTO ... VALUES (...)_  |
 | 11    | PHP ve MySQL (Veri görüntüleme, güncelleme, silme)   | _SELECT ... FROM ..._ <br> _UPDATE ... SET ..._ <br> _DELETE FROM ... WHERE ..._ |
-| 12    | PHP ve MySQL (Form ile alınan verilerin işlenmesi, Ekleme/Güncelleme/Silme/Seçme) |   |
-| 13    | Örnek Proje-Kullanıcı Kaydı ve Girişi                         |   |
+| 12    | Örnek Proje-Kullanıcı Kaydı ve Girişi |   |
+| 13    |  Örnek Proje-Duyuru ve Mesaj Sistemi                        |   |
 | 14    | Örnek Proje-Duyuru ve Mesaj Sistemi                         |   |
 | 15    | Örnek Proje-Yönetim Paneli Oluşturma                          |   |
 | 16    | Final Sınavı                                                  | Teorik sınav yapılacak  |
