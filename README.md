@@ -35,7 +35,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 7     | PHP Form İşlemleri                                            | [PHP Kodları][php-kod-07], [Kaynak-W3S][kaynak7] <br> GET, POST, Form validation, Form required  |
 | 8     | PHP oturum işlemleri (session, cookie)                        | [Kaynak Kodlar][php-kod-08], [Kaynak-W3S][kaynak8] |
 | 9     | Ara sınav                                                     | Ödev verildi, teorik sınav yapılmayacak  |
-| 10    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme)      | mysqli_connect(), mysqli_query() <br> _INSERT INTO ... VALUES (...)_  |
+| 10    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme)      | [kaynak kodlar][php-kod-10] <br> mysqli_connect(), mysqli_query() <br> _INSERT INTO ... VALUES (...)_  |
 | 11    | PHP ve MySQL (Veri görüntüleme, güncelleme, silme)   | _SELECT ... FROM ..._ <br> _UPDATE ... SET ..._ <br> _DELETE FROM ... WHERE ..._ |
 | 12    | Örnek Proje-Kullanıcı Kaydı ve Girişi |   |
 | 13    |  Örnek Proje-Duyuru ve Mesaj Sistemi                        |   |
@@ -64,4 +64,5 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [php-kod-07]: https://replit.com/@ZaferYavuz2/07-php-forms#index.php
 [kaynak7]: https://www.w3schools.com/php/php_forms.asp
 [php-kod-08]: https://github.com/zyavuz610/learnPHP_inKTU/tree/main/src/2021-fall(2021-G%C3%BCz)/08-session_cookie
+[php-kod-10]: https://github.com/zyavuz610/learnPHP_inKTU/tree/main/src/2021-fall(2021-G%C3%BCz)/10-db_connect_and_insert
 [kaynak8]: https://www.w3schools.com/php/php_cookies.asp
