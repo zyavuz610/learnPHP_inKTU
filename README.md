@@ -36,7 +36,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 8     | PHP oturum işlemleri (session, cookie)                        | [Kaynak Kodlar][php-kod-08], [Kaynak-W3S][kaynak8] |
 | 9     | Ara sınav                                                     | Ödev verildi, teorik sınav yapılmayacak  |
 | 10    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme)      | [kaynak kodlar][php-kod-10] <br> mysqli_connect(), mysqli_query() <br> _INSERT INTO ... VALUES (...)_  |
-| 11    | PHP ve MySQL (Veri görüntüleme, güncelleme, silme)   | _SELECT ... FROM ..._ <br> _UPDATE ... SET ..._ <br> _DELETE FROM ... WHERE ..._ |
+| 11    | PHP ve MySQL (Veri görüntüleme, güncelleme, silme) - Kullanıcı Kaydı ve Girişi, <br> Soru ekle,güncelle,sil,göster  | _SELECT ... FROM ..._ <br> _UPDATE ... SET ..._ <br> _DELETE FROM ... WHERE ..._ |
 | 12    | Örnek Proje-Kullanıcı Kaydı ve Girişi |   |
 | 13    |  Örnek Proje-Duyuru ve Mesaj Sistemi                        |   |
 | 14    | Örnek Proje-Duyuru ve Mesaj Sistemi                         |   |
