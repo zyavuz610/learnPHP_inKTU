@@ -37,7 +37,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 9     | Ara sınav                                                     | Ödev verildi, teorik sınav yapılmayacak  |
 | 10    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme)      | [kaynak kodlar][php-kod-10] <br> mysqli_connect(), mysqli_query() <br> _INSERT INTO ... VALUES (...)_  |
 | 11    | PHP ve MySQL (Veri görüntüleme, güncelleme, silme) - Kullanıcı Kaydı ve Girişi, <br> Soru ekle, güncelle, sil, göster  |[kaynak kodlar][php-kod-11] <br>   _SELECT ... FROM ..._ <br> _UPDATE ... SET ..._ <br> _DELETE FROM ... WHERE ..._ |
-| 12    | İlişkili tablolardan veri çekme <br> Örnek Proje-soru beğen, beğenme işlemleri |   |
+| 12    | İlişkili tablolardan veri çekme <br> Örnek Proje-soru beğen, beğenme işlemleri | [kaynak kodlar][php-kod-12]  |
 | 13    | Örnek Proje-Yönetim Paneli Oluşturma                        |   |
 | 14    | Örnek Proje-Web sitesini canlıya alma, kurulum                         |   |
 | 15    | Ödev değerlendirmesi                          |   |
@@ -66,4 +66,5 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [php-kod-08]: https://github.com/zyavuz610/learnPHP_inKTU/tree/main/src/2021-fall(2021-G%C3%BCz)/08-session_cookie
 [php-kod-10]: https://github.com/zyavuz610/learnPHP_inKTU/tree/main/src/2021-fall(2021-G%C3%BCz)/10-db_connect_and_insert
 [php-kod-11]: https://github.com/zyavuz610/learnPHP_inKTU/tree/main/src/2021-fall(2021-G%C3%BCz)/11-select_update_delete
+[php-kod-12]: https://github.com/zyavuz610/learnPHP_inKTU/tree/main/src/2021-fall(2021-G%C3%BCz)/project
 [kaynak8]: https://www.w3schools.com/php/php_cookies.asp
