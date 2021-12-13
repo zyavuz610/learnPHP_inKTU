@@ -1,36 +1,18 @@
 <html>
     <head>
-        <title>
-            Login
-        </title>
+        <title>Login</title>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
+        <h1>Login</h1>
         <form action="login-control.php" method="post">
-            <table>
-                <tr>
-                    <td>
-                        Username:
-                    </td>
-                    <td>
-                        <input type="text" name="username">
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        Password:
-                    </td>
-                    <td>
-                        <input type="password" name="password">
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <input type="submit" value="Login">
-                    </td>
-                </tr>
-            </table>
+            <label for="username">Username:</label>
+            <input type="text" name="username" id="username">
+            <br>
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password">
+            <br>
+            <input type="submit" value="Login">
         </form>
     </body>
 </html>

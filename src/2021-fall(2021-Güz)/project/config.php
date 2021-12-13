@@ -1,10 +1,10 @@
 <?php
-$servername = "localhost"; // 127.0.0.1
-$username = "ybs2";
-$password = "ybs2";
-$dbname = "ybs2";
+$db_servername = "localhost"; // 127.0.0.1
+$db_username = "ybs2";
+$db_password = "ybs2";
+$db_name = "ybs2";
 
-$conn = mysqli_connect($servername, $username, $password, $dbname);
+$conn = mysqli_connect($db_servername, $db_username, $db_password, $db_name);
 
 // bağlantı kontrolü
 if ( !$conn ) {
