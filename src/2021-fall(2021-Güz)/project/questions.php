@@ -19,9 +19,10 @@ $num_rows = mysqli_num_rows($result);
 ?>
     <p>
         <a href="q-insert-form.php">Soru Ekle</a>
-        
     </p>
-    <p> <a href="logout.php">Çıkış Yap</a></p>
+    <p>
+        <a href="logout.php">Çıkış Yap</a>
+    </p>
     <hr>
     <table border="1">
         <tr>
@@ -35,13 +36,13 @@ $num_rows = mysqli_num_rows($result);
             if($num_rows > 0){
                 while($row = mysqli_fetch_assoc($result)){
                     $q_id = $row['id'];
-                    $sql = "SELECT COUNT(*) as count FROM likes WHERE q_id = $q_id AND type=1";
-                    $result2 = mysqli_query($conn,$sql);
+                    $sql2 = "SELECT COUNT(*) as count FROM likes WHERE q_id = $q_id AND type=1";
+                    $result2 = mysqli_query($conn,$sql2);
                     $row2 = mysqli_fetch_assoc($result2);
                     $like = $row2['count'];
                     echo '<tr>';
-                        echo "<td>$q_id</td>";
-                        echo "<td>";
+                        echo "<td>$q_id</td>"; // 1. sütun
+                        echo "<td>";    // 2. sütun
                             echo $row['q_name'];
                             echo" <br> ____________ <br>";
                             $sql3 = "SELECT * FROM likes WHERE q_id = $q_id AND user_id=$user_id AND type=1";
@@ -55,8 +56,8 @@ $num_rows = mysqli_num_rows($result);
                             echo " - ";
                             echo "Beğenme(0)";
                         echo "</td>";
-                        echo "<td>".$row['q_date']."</td>";
-                        echo '<td>';
+                        echo "<td>".$row['q_date']."</td>"; // 3. sütun
+                        echo '<td>'; // 4. sütun
                             echo '<a href="q-update-form.php?id=' . $row['id'] . '">Düzenle</a> - ';
                             echo '<a href="q-delete-form.php?id=' . $row['id'] . '">Sil</a>';
                         echo '</td>';
