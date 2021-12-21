@@ -12,7 +12,7 @@ Ders içeriği ve temel kaynaklar KTÜ [**Ders Bilgi Paketi**](http://www.katalo
 # 2021-22 Güz Yarıyılı Ders İçeriği
 
 ## Yoklama ve Derslere Devam Durumu
-Dersin yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin dersi verimli bir şekilde öğrenmesi için derse devam sorumluluğunu yerine getirmesi beklenir. Bu nedenle öğrencinin yüzyüze ya da çevrim içi dersler ile paylaşılan ders materyallerini takip etmesi önerilir. 
+Ders, yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin dersi verimli bir şekilde öğrenmesi için derse devam sorumluluğunu yerine getirmesi beklenir. Bu nedenle öğrencinin yüzyüze ya da çevrim içi dersler ile paylaşılan ders materyallerini takip etmesi önerilir. 
 
 **_Çevrim içi dersler ile yüzyüze dersler tamamen aynı içeriğe sahiptir._**
 
