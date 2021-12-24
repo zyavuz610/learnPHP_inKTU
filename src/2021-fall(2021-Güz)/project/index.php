@@ -17,7 +17,7 @@ $title = 'Index';
                 echo '<p><a href="questions.php">Sorular</a></p>';
             }
             else{
-                echo '<p>Giriş yapmadıysanız önce giriş yapmalısınız.</p>';
+                echo '<p>Giriş yapmadıysanız önce giriş yapmalısınız...</p>';
                 echo '<p><a href="login.php">Giriş</a></p>';
             }
         ?>
