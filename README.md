@@ -41,7 +41,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 13    | Örnek Proje-Yönetim Paneli Oluşturma                        |   |
 | 14    | Örnek Proje-Web sitesini canlıya alma, kurulum                         |   |
 | 15    | Ödev değerlendirmesi                          |   |
-| 16    | Final Sınavı                                                  | Teorik sınav yapılacak, [Çözümler][final-cevap]  |
+| 16    | Final Sınavı                                                  | Teorik sınav yapılacak, [Sorular ve Çözümleri - video][final-cevap]  |
 
 
 [0]: https://github.com/zyavuz610/learnPHP_inKTU/blob/5205a5cd0d11bd5b0e659d6b9dc6d572a16759e8/images/browser2server.gif
