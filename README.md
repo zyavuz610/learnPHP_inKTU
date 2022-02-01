@@ -41,7 +41,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 13    | Örnek Proje-Yönetim Paneli Oluşturma                        |   |
 | 14    | Örnek Proje-Web sitesini canlıya alma, kurulum                         |   |
 | 15    | Ödev değerlendirmesi                          |   |
-| 16    | Final Sınavı                                                  | Teorik sınav yapılacak, <br> [Sorular ve Çözümleri - video][final-cevap]  |
+| 16    | Final Sınavı                                                  | Teorik sınav yapılacak, <br> [Final Soruları ve Çözümleri - video][final-cevap],  [Bütünleme Soruları ve Çözümleri - video][but-cevap] |
 
 
 [0]: https://github.com/zyavuz610/learnPHP_inKTU/blob/5205a5cd0d11bd5b0e659d6b9dc6d572a16759e8/images/browser2server.gif
@@ -69,3 +69,4 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [php-kod-12]: https://github.com/zyavuz610/learnPHP_inKTU/tree/main/src/2021-fall(2021-G%C3%BCz)/project
 [kaynak8]: https://www.w3schools.com/php/php_cookies.asp
 [final-cevap]: https://www.youtube.com/watch?v=9Tli5vwCBnk
+[but-cevap]: https://youtu.be/kWrvOTtB8cg
