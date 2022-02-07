@@ -14,7 +14,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                  | Kaynak ve Açıklamalar   |
 | :-- | :--                                                  | :--    |
-| 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler  | [intro](images/how-php-web-pages-work.png), [W3schools][w3], [Replit][repl] |
+| 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler  | [intro](images/how-php-web-pages-work.png), [W3schools][w3], [Replit][repl01] |
 | 2     | Temel HTML ve Elemanları, Temel CSS, Sayfa bölümleri, CSS kutu modeli  |  |
 | 3     | Kaydırma, Konumlandırma, Daha fazla düzen tasarımı, PHP'ye Giriş   |   |
 | 4     | Daha fazla PHP sözdizimi, Gömülü PHP, PHP fonksiyonları, Dosya G/Ç |   |
@@ -32,4 +32,4 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 16    | Final Sınavı                                                  |  |
 
 [w3]: https://www.w3schools.com/html/default.asp
-[repl]: https://replit.com
+[repl01]: https://replit.com/@ZaferYavuz2/22b-c01#index.html
