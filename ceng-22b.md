@@ -14,7 +14,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                  | Kaynak ve Açıklamalar | Kaynak Kodlar  |
 | :-- | :--                                                  | :--    | :--    |
-| 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler (HTML-1)  | [intro](images/how-php-web-pages-work.png), [W3schools][w3] | [Yüzyüze][repl01], [Çevrimiçi] |
+| 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler (HTML-1)  | [intro](images/how-php-web-pages-work.png), [W3schools][w3] | [Yüzyüze][repl01], [Çevrimiçi][rep01u] |
 | 2     | Web sayfalarına içerik ekleme (HTML-2) | [W3schools][w3], [Replit][repl02] |
 | 3     | HTML ile sayfa içerikleri geliştirme (HTML-3)   |   |
 | 4     | HTML stilleri (HTML-4) |   |
