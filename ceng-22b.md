@@ -13,7 +13,7 @@ Ders içeriği ve temel kaynaklar KTÜ [**Ders Bilgi Paketi**](http://www.katalo
 Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 16 hafta olarak planlanmıştır.
 
 | Hafta | Ders İçeriği                                                  | Kaynak ve Açıklamalar | Kaynak Kodlar  |
-| :-- | :--                                                  | :--    |
+| :-- | :--                                                  | :--    | :--    |
 | 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler (HTML-1)  | [intro](images/how-php-web-pages-work.png), [W3schools][w3] | [Yüzyüze][repl01], [Çevrimiçi] |
 | 2     | Web sayfalarına içerik ekleme (HTML-2) | [W3schools][w3], [Replit][repl02] |
 | 3     | HTML ile sayfa içerikleri geliştirme (HTML-3)   |   |
