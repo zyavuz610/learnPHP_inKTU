@@ -14,8 +14,8 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                  | Açıklamalar | Kaynak Kodlar  |
 | :-- | :--                                                  | :--    | :--    |
-| 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler (HTML-1)  | [intro](images/how-php-web-pages-work.png), [W3schools][w3] | [Yüzyüze][repl01], [Çevrimiçi][repl01u] |
-| 2     | Web sayfalarına içerik ekleme (HTML-2) | [W3schools][w3], [Replit][repl02] |
+| 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler (HTML-1), tag, attribute, h1...h6, p  | [intro](images/how-php-web-pages-work.png), [W3schools][w3] | [Yüzyüze][repl01], [Çevrimiçi][repl01u] |
+| 2     | Web sayfalarına içerik ekleme (HTML-2) <br> formatting, quotation, yorum, link, img, listeler, tablolar, style, renkler, basit CSS | [W3schools][w3], [Replit][repl02] |
 | 3     | HTML ile sayfa içerikleri geliştirme (HTML-3)   |   |
 | 4     | HTML stilleri (HTML-4) |   |
 | 5     | PHP'ye giriş ve değişkenler, HP metinleri, sayılar, sabitler, Math ve Operatörler |  |
@@ -34,6 +34,6 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [w3]: https://www.w3schools.com/html/default.asp
 [repl01]: https://replit.com/@ZaferYavuz2/22b-ceng-wp01a
 [repl01u]: https://replit.com/@ZaferYavuz2/22b-ceng-wp01u#index.html
-[repl02]: https://replit.com/@ZaferYavuz2/22b-c02#index.html
+[repl02]: https://replit.com/@ZaferYavuz2/22b-ceng-wp02
 
 
