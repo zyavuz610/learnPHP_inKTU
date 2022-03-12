@@ -14,8 +14,8 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                  | Açıklamalar | Kaynak Kodlar  |
 | :-- | :--                                                  | :--    | :--    |
-| 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler (HTML-1), tag, attribute, h1...h6, p  | [intro](images/how-php-web-pages-work.png), [W3schools][w3] | [Yüzyüze][repl01], [Çevrimiçi][repl01u] |
-| 2     | Web sayfalarına içerik ekleme (HTML-2) <br> formatting, quotation, yorum, link, img, listeler, tablolar, style, renkler, basit CSS | [W3schools][w3] | [Yüzyüze][repl02] |
+| 1     | Web Sayfaları nasıl çalışır?  <br>   Web dilleri / teknolojileri <br> HTML yapısı, etiketler (HTML-1), tag, headings(h1...h6), paragraf(p)  | [intro](images/how-php-web-pages-work.png), [W3schools][w3] | [Yüzyüze][repl01], [Çevrimiçi][repl01u] |
+| 2     | Web sayfalarına içerik ekleme (HTML-2) <br> formatting, quotation, yorum, link, attribute, img, listeler, tablolar, style, renkler, basit CSS (inline,internal,external)| [W3schools][w3] | [Yüzyüze][repl02] |
 | 3     | HTML ile sayfa içerikleri geliştirme (HTML-3), tablolar ve kenarlıklar, favicon, block&inline, file path, symbol, emoji, charset, URL encode   |   |
 | 4     | HTML stilleri (HTML-4), class, id, CSS ile id ve class seçme, |   |
 | 5     | basit JS kodları ekleme, JS DOM  |  |
