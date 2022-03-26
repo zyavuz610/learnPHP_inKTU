@@ -18,14 +18,14 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 2     | Web sayfalarına içerik ekleme (HTML-2) <br> formatting, quotation, yorum, link, attribute, img, listeler, tablolar, style, renkler, basit CSS (inline,internal,external)| [W3schools][w3] | [Yüzyüze][repl02], [Çevrimiçi][repl02u] |
 | 3     | HTML ile sayfa içerikleri geliştirme (HTML-3), tablolar ve kenarlıklar, favicon, block&inline, file path, symbol, emoji, charset, URL encode   | [Yüzyüze][repl03], [Çevrimiçi][repl03u]  |
 | 4     | HTML stilleri (HTML-4), class, id, CSS ile id ve class seçme, CSS seçiciler, | [Yüzyüze][repl03], [Çevrimiçi][repl03u]  |
-| 5     | basit JS kodları ekleme, JS DOM  |  |
-| 6     | PHP'ye giriş ve değişkenler, PHP metinleri, sayılar, sabitler, Math ve Operatörler, PHP program denetim deyimleri (koşul ve döngüler)  |  |
-| 7     | Fonksiyonlar, Diziler ve Süperglobal değişkenler |  |
-| 8     | HTML formları, GET/POST, Dosya aktarımı, Form doğrulama, Düzenli ifadeler |  |
+| 5     | Javascript kodlamaya giriş (değişkenler, operatörler), Diziler, Nesneler, Fonksiyonlar, Olaylar  |  |
+| 6     | Javascript program denetim deyimleri, yerleşik nesneler (String, Math, Random, Number, Date),  |  |
+| 7     | JS Document Object Model (DOM) |  |
+| 8     | PHP'ye giriş ve değişkenler, PHP metinleri, sayılar, sabitler, Math ve Operatörler, PHP program denetim deyimleri (koşul ve döngüler)   |  |
 | 9     | Ara sınav                                                     |  |
-| 10    | PHP oturum işlemleri (session, cookie)  |  |
-| 11    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme) | |
-| 12    | PHP ve MySQL (Veri görüntüleme, güncelleme, silme) |   |
+| 10    | Fonksiyonlar, Diziler ve Süperglobal değişkenler, HTML formları,|  |
+| 11    | GET/POST, PHP ile Dosya aktarımı, Form doğrulama, Düzenli ifadeler, PHP oturum işlemleri (session, cookie)  | |
+| 12    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme), PHP ve MySQL (Veri görüntüleme, güncelleme, silme) |   |
 | 13    | Veri Tabanı tasarlama ve SQL   |   |
 | 14    | JSON ve XML  |   |
 | 15    | PHP ve AJAX     |   |
