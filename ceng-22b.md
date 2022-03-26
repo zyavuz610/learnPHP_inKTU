@@ -18,7 +18,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 2     | Web sayfalarına içerik ekleme (HTML-2) <br> formatting, quotation, yorum, link, attribute, img, listeler, tablolar, style, renkler, basit CSS (inline,internal,external)| [W3schools][w3] | [Yüzyüze][repl02], [Çevrimiçi][repl02u] |
 | 3     | HTML ile sayfa içerikleri geliştirme (HTML-3), tablolar ve kenarlıklar, favicon, block&inline, file path, symbol, emoji, charset, URL encode   | [Yüzyüze][repl03], [Çevrimiçi][repl03u]  |
 | 4     | HTML stilleri (HTML-4), class, id, CSS ile id ve class seçme, CSS seçiciler, | [Yüzyüze][repl03], [Çevrimiçi][repl03u]  |
-| 5     | Javascript kodlamaya giriş (değişkenler, operatörler), Diziler, Nesneler, Fonksiyonlar, Olaylar  |  |
+| 5     | Javascript kodlamaya giriş (değişkenler, operatörler), Diziler, Nesneler, Fonksiyonlar, Olaylar  | [Yüzyüze][repl05], [Çevrimiçi][repl05u]  |
 | 6     | Javascript program denetim deyimleri, yerleşik nesneler (String, Math, Random, Number, Date),  |  |
 | 7     | JS Document Object Model (DOM) |  |
 | 8     | PHP'ye giriş ve değişkenler, PHP metinleri, sayılar, sabitler, Math ve Operatörler, PHP program denetim deyimleri (koşul ve döngüler)   |  |
@@ -38,5 +38,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [repl02u]: https://replit.com/@ZaferYavuz2/22b-ceng-wp02u
 [repl03]: https://replit.com/@ZaferYavuz2/22b-ceng-wp03
 [repl03u]: https://replit.com/@ZaferYavuz2/22b-ceng-wp03u
+[repl05]: https://replit.com/@ZaferYavuz2/22b-ceng-wp05
+[repl05u]: https://replit.com/@ZaferYavuz2/22b-ceng-wp05u
 
 
