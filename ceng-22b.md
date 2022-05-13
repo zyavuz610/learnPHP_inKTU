@@ -19,13 +19,13 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 3     | HTML ile sayfa içerikleri geliştirme (HTML-3), tablolar ve kenarlıklar, favicon, block&inline, file path, symbol, emoji, charset, URL encode   | [Yüzyüze][repl03], [Çevrimiçi][repl03u]  |
 | 4     | HTML stilleri (HTML-4), class, id, CSS ile id ve class seçme, CSS seçiciler, | [Yüzyüze][repl03], [Çevrimiçi][repl03u]  |
 | 5     | Javascript kodlamaya giriş (değişkenler, operatörler), Diziler, Nesneler, Fonksiyonlar, Olaylar  | [Yüzyüze][repl05], [Çevrimiçi][repl05u]  |
-| 6     | Javascript program denetim deyimleri, yerleşik nesneler (String, Math, Random, Number, Date)  |  |
-| 7     | JS Document Object Model (DOM) |  |
-| 8     | JS Animasyon, JSON, Web Sitesi Düzeni ve Yayınlama   |  |
+| 6     | Javascript'de Karakter Dizileri (String) ve Sayılar (Number),  Javascript'de Tarih(Date), Matematiksel İşlemler(Math) ve Rasgele Sayılar, Javascript'de Koşullu İfadeler ve Döngüler |  |
+| 7     | JS Document Object Model (DOM), DOM Elements, DOM CSS, DOM Events | Form Validation, Animasyon Yapımı (Yukarı ve aşağı sayaç, koşan at)  | |
+| 8     | JSON, Web Sitesi ve CSS ile Düzen (Layout) Oluşturma, Web Sitesi Düzeni ve Yayınlama (Github)  |  |
 | 9     | Ara sınav                                                     |  |
-| 10     | PHP'ye giriş ve değişkenler, PHP metinleri, sayılar, sabitler, Math ve Operatörler, PHP program denetim deyimleri (koşul ve döngüler)   |  |
-| 11    | Fonksiyonlar, Diziler ve Süperglobal değişkenler, HTML formları,|  |
-| 12    | GET/POST, PHP ile Dosya aktarımı, Form doğrulama, Düzenli ifadeler, PHP oturum işlemleri (session, cookie)  | |
+| 10    | HTML Form Elemanları, PHP'ye Giriş, Söz Dizimi ve Değişkenler, PHP'de Stringler, Sayılar ve Operatörler   |  |
+| 11    | PHP'de Koşullu İfadeler (if, else, else if), Döngüler (for while, do-while, for, foreach, break, continue), PHP'de Diziler (indexli diziler, ilişkisel diziler, çok boyutlu diziler, dizi sıralama) |  |
+| 12    | GET/POST, PHP'de Form İşlemleri, PHP oturum işlemleri (session, cookie)  | |
 | 13    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme), PHP ve MySQL (Veri görüntüleme, güncelleme, silme) |   |
 | 14    | Veri Tabanı tasarlama ve SQL   |   |
 | 15    | PHP ve AJAX     |   |
