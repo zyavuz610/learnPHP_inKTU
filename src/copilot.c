@@ -22,6 +22,19 @@ int sortArray(int *arr, int n) {
     return 0;
 }
 
+double average(int *arr, int n) {
+    int i;
+    double sum = 0;
+    for (i = 0; i < n; i++) {
+        sum += arr[i];
+    }
+    return sum / n;
+}
+
+int getCentury(int year) {
+    return year / 100;
+}
+
 int main(void)
 {
     printf("Hello, World!\n");
