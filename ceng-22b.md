@@ -29,7 +29,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 13    | PHP ve Veritabanı İşlemleri  (Bağlanma ve Veri Ekleme), PHP ve MySQL (Veri görüntüleme, güncelleme, silme) |   |
 | 14    | Veri Tabanı tasarlama ve SQL   |   |
 | 15    | PHP ve AJAX     |   |
-| 16    | [Final Sınavı][final-cevap]         |  |
+| 16    | [Final Sınavı][final-cevap]         | [Bütünleme Sınavı][but-cevap]  |
 
 [w3]: https://www.w3schools.com/html/default.asp
 [repl01]: https://replit.com/@ZaferYavuz2/22b-ceng-wp01a
@@ -41,5 +41,6 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [repl05]: https://replit.com/@ZaferYavuz2/22b-ceng-wp05
 [repl05u]: https://replit.com/@ZaferYavuz2/22b-ceng-wp05u
 [final-cevap]: past-exams\21-22-s_Final_Sorular-Web_Programlama.pdf
+[but-cevap]: past-exams\21-22-s_Bütünleme_Sorular-Web Programlama.pdf
 
 
